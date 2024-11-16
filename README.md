@@ -1,3 +1,3 @@
-Tugas Dua Algoritma Pemrograman
-Nama : Danisyah Rizky
-NIM : 049881583
+<h1>Tugas Dua Algoritma Pemrograman</h1>
+<p>Nama : Danisyah Rizky</p>
+<p>NIM : 049881583</p>
